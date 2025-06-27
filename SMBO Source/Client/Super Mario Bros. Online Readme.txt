@@ -1,0 +1,282 @@
+****************************************
+*				       *
+* Super Mario Bros. Online Readme file *
+*                                      *
+****************************************
+
+Table of Contents
+------------------
+
+1. Introduction
+
+2. Basic Controls
+
+3. Items
+
+4. Equipment
+
+5. Ranged Weapons & Ammo
+
+6. Special Attacks
+
+7. Save Points
+
+8. Jumping
+
+9. Socializing
+
+10. Stats
+
+11. Commands
+
+12. Trading
+
+13. Cards
+
+14. Turn-based Battles
+
+15. Credits & Disclaimer
+
+
+*******************
+* 1. Introduction *
+*******************
+
+Super Mario Bros. Online is a 100% free, 2D fan-made online Mario RPG. Play as 6 familiar characters:
+Mario, Luigi, Wario, Waluigi, Yoshi, and Toad. You can use items and equipment, meet new people,
+hang out with friends, and much more! Super Mario Bros. Online is in its final release, so it has 
+many interesting features and an expansive world that can keep players occupied for hours.
+
+*********************
+* 2. Basic Controls *
+*********************
+
+Up arrow key: Walk up
+Down arrow key: Walk down
+Left arrow key: Walk left
+Right arrow key: Walk right
+Delete key: Jump
+
+Enter/Return: Pick up items, read signs, submit text
+Ctrl (also known as the "Action Button"): Communicate with NPCs, attack
+
+Home: Change the direction your character faces
+
+Shift: Run
+
+Left-click: Select option/item
+Double left-click: Use/equip item in inventory
+Right-click: Drop item in inventory
+
+************
+* 3. Items *
+************
+
+Items are materials that can either assist or harm you in Super Mario Bros. Online.
+There are many types of items, ranging from collectibles to equipment. When you have an item, scroll
+your mouse over it to see its effects.
+
+Coins
+-----
+
+Coins are the basic currency in Super Mario Bros. Online. With Coins, you can buy all types of things,
+ranging from Mushrooms to equipment.
+
+****************
+* 4. Equipment *
+****************
+
+Like most other online RPGs, Super Mario Bros. Online features equippable items that can either increase
+or decrease certain stats as well as produce special effects. Equipment is broken up into several categories,
+and each category has its own slot on the Equipment tab:
+
+1) Weapons (middle-right slot) - Generally increase Attack
+2) Shirts/Armor (middle slot) - Generally give Defense bonuses, and may give extra bonuses
+3) Hats - (top-middle slot) - Can give various stat bonuses
+4) Pants/Leg Armors (bottom-middle slot) - Give Defense bonuses; however they may also give other bonuses
+5) Mushroom Badges (top-left slot) - Will increase your HP but can also increase Attack and Critical Hit chance
+6) Flower Badges (top-right slot) - Will increase your FP but can also increase Defense and Block chance
+7) Special Badges (left-middle slot) - Have special effects and give bonuses
+
+Equipment can be purchased at shops. The prices of equipment vary depending on the quality of the equipment and
+the location of the shop.
+
+****************************
+* 5. Ranged Weapons & Ammo *
+****************************
+
+Super Mario Bros. Online has many types of weapons, including ranged weapons. These weapons can either have
+unlimited ammo or limited ammo. If a weapon has unlimited ammo, then you can continue using it as a weapon
+as long as you like. However, a weapon with limited ammo has limited uses before it needs to be refilled
+with ammo. Different ranged weapons use different types of ammo, and each weapon can only be refilled with
+its respective ammo type. In order to refill a ranged weapon that has some or no ammo remaining, simply
+double-click on the respective ammo in your inventory, and your weapon will be refilled with ammo.
+
+**********************
+* 6. Special Attacks *
+**********************
+
+Special attacks are attacks that can do a variety of things, such as heal you, harm others, 
+and increase various stats temporarily. However, you cannot use these for as long as you like
+because they require FP to perform. You learn Special Attacks on level up, and each character 
+has different Special Attacks.
+
+*********************
+* 7. Save Points    *
+*********************
+
+Save Points, or respawn points, are the places you will return to after you die.
+To set your Save Point, jump under a Save Block (a block with an "S" on it).
+
+**************
+* 8. Jumping *
+**************
+
+Super Mario Bros. Online features the ability to jump. Press Delete to jump up or
+down various platforms and hit blocks. You can also jump over other players.
+Please note that you cannot jump on every platform.
+
+*********************
+* 9. Socializing    *
+*********************
+
+Socializing is an important aspect of every online game. To talk with other players,type a 
+message in the textbox above the chatbox and press Enter to send the message to everyone else 
+on the map. If you wish to broadcast a message to every player online, type ' before your message 
+and press Enter. For example, typing 'hi would send the word "hi" to every player online. This 
+feature may be removed as the game grows because there will be too many players broadcasting their 
+messages, and it will be extremely difficult to figure out who's talking to who.
+
+You can also send someone a Private Message. To send a Private Message, open up the "Online" tab
+and click on "Private Message." Type in the name of the player you wish to send the message to and then
+type the message you wish to send to the player. After that, just click "Send Message" and you're done! 
+
+If you want to trade with a player, stand at most 3 spaces away from the player and type /trade. If the
+player accepts, you will enter a trade. Select the items that you want to offer and click on "Accept Trade"
+when you feel that the trade is fair. Trading is explained in further detail in the Trading section.
+
+*************
+* 10. Stats *
+*************
+
+If you click on the "Character" tab, you will see a lot of stats, and most likely, will wonder what each one does.
+Here's the breakdown:
+
+HP: Heart Points, or life. When this reaches 0, you will die and return to your respawn point. HP is the
+upper-most icon on the top-left of the game screen.
+FP: Flower Points. Flower Points are necessary to perform Special Attacks, which can do special effects,
+including healing your HP. FP is under the HP icon on the top-left of the game screen.
+
+Attack: How much damage you can inflict upon enemies or other players.
+Defense: How much damage you can resist from enemies or other players.
+Speed: How long you can run, whether or not you will go first in a turn-based battle, and the chance at blocking
+an enemy attack.
+Stache: The chance of landing Criticals, which deal 1.5x more damage than normal attacks.The higher your Stache, 
+the more discounts you will receive at shops. It also allows you to sell items for a higher price at shops.
+
+You can also find information about these stats by hovering your mouse over their names on the "Character" tab.
+
+When you level up by killing enough enemies, you will get to choose which stat you want to increase. You only 
+get to choose once per level, so choose wisely!
+
+****************
+* 11. Commands *
+****************
+
+/help: Lists commands that can be used.
+/trade: Trades with another player. Use this when you're at most 3 spaces away from another player, otherwise
+it won't work.
+/inv: Opens up your inventory. You can also click on the "Inventory" tab to open up your inventory.
+/party: Invites others to a party. In a party, players can fight together and share experience points 
+received from enemies.
+/join: Joins a party.
+/leave: Leaves a party.
+
+***************
+* 12. Trading *
+***************
+
+Like many other online games, Super Mario Bros. Online has a trade feature between players. To trade, type "/trade"
+in the chatbox. After that, hit the spacebar once and type the exact name of the player you want to trade with. For
+example, if Kimimaru wanted to trade with hydrakiller4000, Kimimaru would type  "/trade hydrakiller4000." Note that
+you must be on the same map and at most 3 spaces away from the other player to trade. Once a trade request is
+successfully sent, a trade offer will appear on the requested player's screen, and he or she will be prompted to
+either accept or decline the offer. Once you and your trade partner are in a trade, you will be able to add and
+remove items from your trade offer. Once you accept the trade, your trade partner will also need to accept the trade
+in order for both of you to successfully exchange items. To reject your approval of the trade but not cancel the 
+trade itself, simply add or remove an item.
+
+Remember to always double check your trades before you accept them so you don't get ripped off. The Super Mario
+Bros. Online staff isn't responsible for anything that occurs in a trade. The Super Mario Bros. Online staff
+reserves the right to take any unreleased or restricted items from any player.
+
+*************
+* 13. Cards *
+*************
+
+Cards are items in Super Mario Bros. Online that can be considered collectibles. Cards are dropped by enemies, and
+almost every NPC has its own card. In the Mushroom Kingdom Sewers, there is a Card Shop that sells cards to players, 
+some of which are unobtainable any other way. There is also a spot players can go to if they want to check their 
+card collection. 
+
+The card collection will list the cards you currently have as well as empty card slots. The empty card slots indicate 
+cards the player is missing. So, if there are 5 empty card slots, then the player is missing 5 cards. When you select
+a card you have in your collection, information regarding the enemy will display. The enemy's HP, Attack, Defense, and
+Experience earned when defeated, along with a small description of the enemy, will be displayed.
+
+To add a card to your collection, double-click on it when you have it in your inventory, and you will receive a
+message that the card has been added to your collection. If you double-click on a card and this message does not
+pop up, then you have already added the card to your collection. Cards are pretty rare and therefore are pretty
+expensive, so do not just throw away a card when you've added it to your collection; try to sell it at a local
+shop or to other players. Once you've added the card to your collection, you no longer need to have it in your
+inventory or bank to check out any of its information on the collection screen.
+
+
+**************************
+* 14. Turn-based Battles *
+**************************
+
+The ability to have turn-based battles in Super Mario Bros. Online has been introduced in the beta release of the game.
+Turn-based battles are battles in which players and NPCs alternate their moves. For example, a player gets into a
+battle and then is given an opportunity to make a move. The player chooses to attack the enemy. After that, the NPC
+now has the opportunity to make a move, and the player must wait for the NPC to finish its move before he/she can
+make another move.
+
+When a player is in a turn-based battle, he/she gets moved to a different location and faces the NPC. When it is the
+player's turn, he/she will be able to see his/her battle options and alternate between them by using the left and 
+right arrow keys. Once the player is sure of his/her next course of action, he/she can press CTRL to execute that
+action and end his/her turn.
+
+While in a turn-based battle, a player is invisible to other players, and no other player can interact with that player
+unless the players send messages to each other. However, the player in the battle is able to see other players, but
+he/she is unable to move or interact with other players himself/herself.
+
+Turn-based battles are also optional. To enable turn-based battles, click on the "Settings" tab and check the box
+labeled "Turn-based Battles." Uncheck or keep this box unchecked if you want to use the traditional action battle
+system.
+
+****************************
+* 15. Credits & Disclaimer *
+****************************
+
+All sprites, backgrounds, tiles, concept art, sound effects, music, characters, and names are copyright Nintendo,
+although some sprites and tiles are custom-made. Most custom sprites and tiles were taken from The Spriter's Resource
+and the Mario Fan Games Galaxy. The rest of the custom sprites and tiles were custom-made by the creators of
+Super Mario Bros. Online. All sound effects were taken from the Mario Fan Games Galaxy.
+Most of the music was taken from www.vgmusic.com. The rest of the music was taken from the Mario Fan Games Galaxy.
+
+Thanks goes to Marsh and the Eclipse community for the Eclipse engine and all of their help. A special thanks goes to
+Robin, Admiral Refugee, and Godlord.
+
+Additional thanks goes to Ne0n, the creator of Rebelion Online and Super Mario Online, Garro, from the MKO community, 
+and Balliztik1 and Robin from the Eclipse community for their help in the game's development.
+
+We are in no way affiliated with Nintendo. Super Mario Bros. Online is a non-profit fangame and is created
+solely for entertainment purposes. We take no credit for any sprites, backgrounds, tiles, concept art, sound effects,
+music, characters, names, or ideas originally used by Nintendo. All properties belong to their respective owners.
+
+Super Mario Bros. Online was created by Kimimaru and hydrakiller4000.
+
+If you ever lose this Readme, you can download it at our website: www.supermariobrosonline.co.cc
+
+We hope you enjoy Super Mario Bros. Online!
